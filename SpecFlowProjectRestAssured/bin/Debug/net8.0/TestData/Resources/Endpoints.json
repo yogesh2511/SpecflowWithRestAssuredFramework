@@ -1,0 +1,5 @@
+﻿{
+    "GetBoards": "/1/members/{memberId}/boards",
+    "CreateBoard": "/1/boards",
+    "DeleteBoard": "/1/boards/{boardId}"
+}
