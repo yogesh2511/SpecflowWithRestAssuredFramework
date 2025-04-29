@@ -21,32 +21,6 @@ Thanks for pointing that out! Here's the corrected and clearly formatted folder 
 ## 📁 Project Structure
 
 ```
-TrelloApiAutomation/
-│
-├── Features/                    # Gherkin feature files
-│   └── TrelloBoard.feature
-│
-├── StepDefinitions/            # Step definition implementations
-│   └── TrelloBoardSteps.cs
-│
-├── Helpers/                    # API interaction utilities
-│   └── TrelloApiHelper.cs
-│
-├── Hooks/                      # Hooks for setup/teardown
-│   └── TestHooks.cs
-│
-├── Utils/                      # Utility and support classes
-│   ├── ScenarioContextManager.cs
-│   └── ConfigReader.cs
-│
-├── Reports/                    # HTML or other test reports
-│   └── ExtentReport.html
-│
-├── appsettings.json            # Environment/API configuration
-├── TrelloApiAutomation.csproj  # Project file
-└── README.md                   # Project documentation
-```
-
 
 ## ✅ Supported Trello API Scenarios
 
@@ -127,12 +101,3 @@ You can integrate this framework with CI tools like **GitHub Actions**, **Azure 
 **Yogesh Solanki**
 
 ---
-
-## 📃 License
-
-This project is licensed under the MIT License.
-```
-
----
-
-Would you like me to generate this README in a downloadable `.md` file or customize it with your project name and GitHub repo URL?
