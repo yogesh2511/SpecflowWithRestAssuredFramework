@@ -14,9 +14,6 @@ This project is a BDD-style API automation framework designed for testing the **
 - [Trello REST API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 
 ---
-Thanks for pointing that out! Here's the corrected and clearly formatted folder structure section for the `README.md` file:
-
----
 
 ## 📁 Project Structure
 
